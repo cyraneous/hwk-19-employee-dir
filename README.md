@@ -2,9 +2,9 @@
 React: Employee Directory
 
 Github Page: https://github.com/cyraneous/hwk-19-employee-dir
-Live Demo:  </br>
 
-![bg-showcase-3](https://user-images.githubusercontent.com/44029053/78942452-c3a89380-7a87-11ea-9a4d-1d4dc2b8a9f6.png)
+
+![Alt-text](https://github.com/cyraneous/hwk-19-employee-dir/blob/main/images/Employee-Directory-HWK-19.PNG)
 
 # User Story
 As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.

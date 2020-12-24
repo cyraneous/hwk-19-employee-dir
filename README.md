@@ -1,5 +1,5 @@
 # Homework-19
-React: Employee Directory
+React Employee Directory
 
 Github Page: https://github.com/cyraneous/hwk-19-employee-dir
 

@@ -1,7 +1,7 @@
 # Homework-19
 React: Employee Directory
 
-Github Page: </br>
+Github Page: https://github.com/cyraneous/hwk-19-employee-dir
 Live Demo:  </br>
 
 ![bg-showcase-3](https://user-images.githubusercontent.com/44029053/78942452-c3a89380-7a87-11ea-9a4d-1d4dc2b8a9f6.png)
